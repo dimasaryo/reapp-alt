@@ -11,6 +11,8 @@
     "start": "reapp run"
   },
   "dependencies": {
+    "alt": "^0.18.2",
+    "alt-utils": "^1.0.0",
     "react": "^0.13.2",
     "reapp-kit": "^1.2.15",
     "reapp-ui": "^0.12.54"
